@@ -1,0 +1,7 @@
+C:\Users\Luciano\Documents\GitHub\DotNetOpenAuth.Samples\src\InfoCard\InfoCardRelyingParty\bin\InfoCardRelyingParty.dll
+C:\Users\Luciano\Documents\GitHub\DotNetOpenAuth.Samples\src\InfoCard\InfoCardRelyingParty\bin\InfoCardRelyingParty.pdb
+C:\Users\Luciano\Documents\GitHub\DotNetOpenAuth.Samples\src\InfoCard\InfoCardRelyingParty\bin\log4net.dll
+C:\Users\Luciano\Documents\GitHub\DotNetOpenAuth.Samples\src\InfoCard\InfoCardRelyingParty\bin\log4net.xml
+C:\Users\Luciano\Documents\GitHub\DotNetOpenAuth.Samples\src\InfoCard\InfoCardRelyingParty\obj\Debug\InfoCardRelyingParty.csprojResolveAssemblyReference.cache
+C:\Users\Luciano\Documents\GitHub\DotNetOpenAuth.Samples\src\InfoCard\InfoCardRelyingParty\obj\Debug\InfoCardRelyingParty.dll
+C:\Users\Luciano\Documents\GitHub\DotNetOpenAuth.Samples\src\InfoCard\InfoCardRelyingParty\obj\Debug\InfoCardRelyingParty.pdb
